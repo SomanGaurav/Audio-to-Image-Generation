@@ -33,7 +33,7 @@ Results demonstrate that lightweight adapter networks can repurpose text-to-imag
 ---
 
 ## 📍 System Workflow
-
+- to be added
 ---
 
 ## 🛠 Methodology
